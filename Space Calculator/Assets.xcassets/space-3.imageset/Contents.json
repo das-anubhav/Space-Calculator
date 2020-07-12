@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "4b1850783db2b80d9ec851e3626d9b54.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
