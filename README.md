@@ -1,5 +1,5 @@
 # Space-Calculator
-
+>It provides simple and advanced mathematical functions in a beautifully designed app.
 <img width="358" alt="Screenshot 2020-10-06 at 11 29 50 PM" src="https://user-images.githubusercontent.com/56907051/95242817-5a82bc80-082d-11eb-84cd-56ab032e7e23.png">
 <img width="358" alt="Screenshot 2020-10-06 at 11 29 58 PM" src="https://user-images.githubusercontent.com/56907051/95242826-5e164380-082d-11eb-8caa-80ca98f67833.png">
 <img width="358" alt="Screenshot 2020-10-06 at 11 30 06 PM" src="https://user-images.githubusercontent.com/56907051/95242830-60789d80-082d-11eb-8b43-2696fbbab46b.png">
